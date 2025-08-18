@@ -2,14 +2,11 @@
 
 ###
 
-<p align="left">Aui voce pode ver como funciona por si mesmo.  LINK DO SITE</p>
+<p align="left">Aqui voce pode ver como funciona por si mesmo. (https://frontendchat-nhqr.onrender.com) </p>
 
 ###
 
-<div align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=melissasantana1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
@@ -37,8 +34,7 @@
 
 ###
 
-<div align="center">
-  <img height="400" src="file:///C:/Users/User/Pictures/Screenshots/chat.png"  />
-</div>
+
 
 ###
+

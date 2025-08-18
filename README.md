@@ -30,7 +30,18 @@
 
 ###
 
-<p align="left">![Screenshot do chat](link-da-imagem-screenshot)  <br>*(Opcional: insira uma imagem ou GIF mostrando o chat em ação)*</p>
+
+<div align="center">
+  <img height="200" src="https://imgur.com/mFS4Cvl"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://imgur.com/KfDEZRz"  />
+</div>
+
+###
 
 ###
 

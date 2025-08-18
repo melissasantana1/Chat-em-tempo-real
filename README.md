@@ -28,6 +28,8 @@
 
 ###
 
-<p align="left">![Screenshot do chat](link-da-imagem-screenshot)  <br>*(Opcional: insira uma imagem ou GIF mostrando o chat em ação)*</p>
+<img src="PROJETOS-PORTIFOLIO/chat.png" alt="Minha Imagem" width="200"/>
+
+
 
 ###

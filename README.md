@@ -31,17 +31,6 @@
 ###
 
 
-<div align="center">
-  <img height="200" src="https://imgur.com/mFS4Cvl"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://imgur.com/KfDEZRz"  />
-</div>
-
-###
 
 ###
 

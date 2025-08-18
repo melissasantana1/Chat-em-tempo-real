@@ -2,25 +2,37 @@
 
 ###
 
-<p align="left">Um **chat em tempo real** desenvolvido com ** HTML, CSS, JavaScript e Node.js**, permitindo que múltiplos usuários conversem simultaneamente sem limites de participantes ou mensagens.  LINK DO SITE</p>
+<p align="left">Aui voce pode ver como funciona por si mesmo.  LINK DO SITE</p>
 
 ###
 
 <div align="center">
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=melissasantana1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=melissasantana1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<p align="left">## Funcionalidades<br><br>- Login rápido usando apenas o **nome do usuário**.<br>- Suporte a **quantos usuários quiserem entrar** na sala.<br>- Conversas ficam registradas na tela e **rolam automaticamente para cima** à medida que novas mensagens chegam.<br>- Não há limite de mensagens — a conversa continua indefinidamente até que a página seja atualizada.<br>- Reset da conversa simples: **atualize a página** para limpar o chat.<br>- Interface **limpa e intuitiva**, com mensagens diferenciadas entre o próprio usuário e os outros participantes.<br><br>---</p>
+<h3 align="left">Funcionalidades</h3>
 
 ###
 
-<p align="left">## Tecnologias Utilizadas<br><br>- **Frontend:** HTML5, CSS3, JavaScript <br>- **Backend:** Node.js<br>- **WebSocket:** comunicação em tempo real entre cliente e servidor</p>
+<p align="left">- Login rápido usando apenas o nome do usuário.<br>- Suporte a quantos usuários quiserem entrar na sala.<br>- Conversas ficam registradas na tela e  rolam automaticamente para cima  à medida que novas mensagens chegam.<br>- Não há limite de mensagens — a conversa continua indefinidamente até que a página seja atualizada.<br>- Reset da conversa simples: atualize a página para limpar o chat.<br>- Interface limpa e intuitiva, com mensagens diferenciadas entre o próprio usuário e os outros participantes.</p>
 
 ###
 
-<p align="left">## Demonstração<br><br>![Screenshot do chat](link-da-imagem-screenshot)  <br>*(Opcional: insira uma imagem ou GIF mostrando o chat em ação)*</p>
+<h3 align="left">Tecnologias Utilizadas</h3>
+
+###
+
+<p align="left">- Frontend: HTML5, CSS3, JavaScript <br>- Backend:  Node.js<br>- WebSocket: comunicação em tempo real entre cliente e servidor</p>
+
+###
+
+<h3 align="left">Demonstração</h3>
+
+###
+
+<p align="left">![Screenshot do chat](link-da-imagem-screenshot)  <br>*(Opcional: insira uma imagem ou GIF mostrando o chat em ação)*</p>
 
 ###

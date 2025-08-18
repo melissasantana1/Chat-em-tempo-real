@@ -19,8 +19,9 @@
 <h3 align="left">Tecnologias Utilizadas</h3>
 
 ###
-
-<p align="left">- Frontend: HTML5, CSS3, JavaScript <br>- Backend:  Node.js<br>- WebSocket: comunicação em tempo real entre cliente e servidor</p>
+<div align="center">
+  <img height="400" src="file:///C:/Users/User/Pictures/Screenshots/chat.png"  />
+</div>
 
 ###
 

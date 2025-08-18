@@ -6,6 +6,11 @@
 
 ###
 
+<div align="center">
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=melissasantana1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 ###
 
 <h3 align="left">Funcionalidades</h3>
@@ -19,9 +24,8 @@
 <h3 align="left">Tecnologias Utilizadas</h3>
 
 ###
-<div align="center">
-  <img height="400" src="file:///C:/Users/User/Pictures/Screenshots/chat.png"  />
-</div>
+
+<p align="left">- Frontend: HTML5, CSS3, JavaScript <br>- Backend:  Node.js<br>- WebSocket: comunicação em tempo real entre cliente e servidor</p>
 
 ###
 
@@ -29,8 +33,12 @@
 
 ###
 
-<img src="PROJETOS-PORTIFOLIO/chat.png" alt="Minha Imagem" width="200"/>
+<p align="left">![Screenshot do chat](link-da-imagem-screenshot)  <br>*(Opcional: insira uma imagem ou GIF mostrando o chat em ação)*</p>
 
+###
 
+<div align="center">
+  <img height="400" src="file:///C:/Users/User/Pictures/Screenshots/chat.png"  />
+</div>
 
 ###
